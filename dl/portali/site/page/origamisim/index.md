@@ -9,7 +9,7 @@ OrigamiSim si appoggia in su un'altra rete e viene chiamata operatore telefonico
 
 ### Quali sono le offerte?
 
-Le trovi digitando [qui](https://angolorigami.github.io/dl/portali/site/page/origamisim/offerte.md)
+Le trovi digitando [qui](https://angolorigami.github.io/dl/portali/site/page/origamisim/offerte/)
 
 ### Supporto tecnico
 
