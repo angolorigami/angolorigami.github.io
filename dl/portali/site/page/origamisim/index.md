@@ -1,38 +1,17 @@
-## Welcome to GitHub Pages
+## Benvenuti in OrigamiSim
 
-You can use the [editor on GitHub](https://github.com/angolorigami/angolorigami.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OrigamiSim è la sim creata per i dipendenti.Puoi accedere a tutti i portali L'AngoloDegliOrigami e OrigamiTV(incluso il live e Replay)senza consumare la connessione dati.Puoi telefonare ai numeri 06,02,080 (solo L'AngoloDegliOrigami)senza consumare i tuoi minuti!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Come funziona?
 
-### Markdown
+OrigamiSim si appoggia in su un'altra rete e viene chiamata operatore telefonico virtuale.Puoi accedere al tuo status sul sito web dedicato o sull'app MyOrigamiSIM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Quali sono le offerte?
 
-# Header 1
-## Header 2
-### Header 3
+Le trovi digitando [qui](https://angolorigami.github.io/dl/portali/site/page/origamisim/offerte.html)
 
-- Bulleted
-- List
+### Supporto tecnico
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angolorigami/angolorigami.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vuoi aderire a OrigamiSim?(è disponibile solo su passaggio da altri operatori)Vai su adesioneorigamisim.angolorigami.ml e compila il form.
 
